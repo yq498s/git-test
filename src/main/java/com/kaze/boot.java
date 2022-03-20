@@ -9,6 +9,8 @@ public class boot {
         System.out.println(222);
         System.out.println(333);
         System.out.println(4444);
+        System.out.println("hot-fix test");
         System.out.println("master test");
+        System.out.println("额外补充");
     }
 }
