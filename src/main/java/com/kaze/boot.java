@@ -12,5 +12,6 @@ public class boot {
         System.out.println("hot-fix test");
         System.out.println("master test");
         System.out.println("额外补充");
+        System.out.println("push test");
     }
 }
